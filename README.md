@@ -1,9 +1,9 @@
-#Currency Converter
-##Usage:
+# Currency Converter
+## Usage:
 Can be used to convert currencies.
-##Publish on:
+## Publish on:
 https://minulsandith-currency-converter-main-bpntbi.streamlitapp.com/
-##Status:
+## Status:
 Completed.
-##Requested:
+## Requested:
 Please inform if thete are bugs.
