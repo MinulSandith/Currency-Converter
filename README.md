@@ -6,4 +6,4 @@ https://minulsandith-currency-converter-main-bpntbi.streamlitapp.com/
 ## Status:
 Completed.
 ## Requested:
-Please inform if thete are bugs.
+Please inform if there are bugs.
