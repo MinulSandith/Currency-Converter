@@ -1,1 +1,2 @@
+streamlit
 forex-python==1.8
